@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @FormulaT
+- 👀 I’m interested in Software development/engineering, web development and game development
+- 🌱 I’m currently learning android app development using android studio
+- 💞️ I’m looking to collaborate on anything related to the above mentioned interests
+- 📫 How to reach me -> Email: thabzthegreat@gmail.com Phone: +27 69 114 7708 
