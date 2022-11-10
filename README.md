@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FormulaT
 - 👀 I’m interested in Software development/engineering, web development and game development
-- 🌱 I’m currently learning android app development using Android Studio and learning some Java
-- My prefered programming language are C++, PHP, JavaScript, (the folowing are'nt programming languages but you get the point) HTML, CSS
-- 💞️ I’m looking to collaborate on anything related to the above mentioned interests
+- 🌱 Trying to teach myself how to use linux, android app development using Android Studio, React JS and Java
+- My prefered programming language are C++, PHP, JavaScript, (the following aren't really programming languages but you get the point) HTML, CSS
+- 💞️ I’m looking to collaborate on and learn anything related to the above mentioned programming languages and interests
 - 📫 How to reach me -> Email: thabzthegreat@gmail.com Phone: +27 69 114 7708 
